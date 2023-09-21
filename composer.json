@@ -1,0 +1,17 @@
+{
+    "name": "root/coupons",
+    "description": "coupons",
+    "type": "project",
+    "license": "apache2",
+    "authors": [
+        {
+            "name": "mohan"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App"
+        }
+    }
+}
